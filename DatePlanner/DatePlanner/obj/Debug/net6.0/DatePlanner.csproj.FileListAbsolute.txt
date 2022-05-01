@@ -1,0 +1,7 @@
+C:\Users\enisa_s3yrqh6\OneDrive\Desktop\ProjectLabKurs1\LabKurs1\DatePlanner\DatePlanner\obj\Debug\net6.0\DatePlanner.csproj.AssemblyReference.cache
+C:\Users\enisa_s3yrqh6\OneDrive\Desktop\ProjectLabKurs1\LabKurs1\DatePlanner\DatePlanner\obj\Debug\net6.0\DatePlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enisa_s3yrqh6\OneDrive\Desktop\ProjectLabKurs1\LabKurs1\DatePlanner\DatePlanner\obj\Debug\net6.0\DatePlanner.AssemblyInfoInputs.cache
+C:\Users\enisa_s3yrqh6\OneDrive\Desktop\ProjectLabKurs1\LabKurs1\DatePlanner\DatePlanner\obj\Debug\net6.0\DatePlanner.AssemblyInfo.cs
+C:\Users\enisa_s3yrqh6\OneDrive\Desktop\ProjectLabKurs1\LabKurs1\DatePlanner\DatePlanner\obj\Debug\net6.0\DatePlanner.csproj.CoreCompileInputs.cache
+C:\Users\enisa_s3yrqh6\OneDrive\Desktop\ProjectLabKurs1\LabKurs1\DatePlanner\DatePlanner\obj\Debug\net6.0\DatePlanner.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\enisa_s3yrqh6\OneDrive\Desktop\ProjectLabKurs1\LabKurs1\DatePlanner\DatePlanner\obj\Debug\net6.0\DatePlanner.MvcApplicationPartsAssemblyInfo.cache
