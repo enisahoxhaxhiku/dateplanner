@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7vDFvTQS+7s1QqWb67cR8d/5rPX8Sdo3JQ1mEXbMDCxZKLucA1F6eqAlV8TLZP+2C0lT18jsabi12a2RP2RhIQ==",
+  "dgSpecHash": "WONJHlJZLA6aE94IGGLivW03v8YnbLU5i5gpvD5yRIsmHvSTcRzZgxAuq0dkM0d7WmOcWIPwhd6t4jDRVlCaNA==",
   "success": true,
   "projectFilePath": "C:\\Users\\enisa_s3yrqh6\\OneDrive\\Desktop\\ProjectLabKurs1\\LabKurs1\\DatePlanner\\DatePlanner\\DatePlanner\\DatePlanner\\DatePlanner.csproj",
   "expectedPackageFiles": [
@@ -22,8 +22,11 @@
     "C:\\Users\\enisa_s3yrqh6\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.1\\swashbuckle.aspnetcore.swaggergen.6.3.1.nupkg.sha512",
     "C:\\Users\\enisa_s3yrqh6\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.1\\swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512",
     "C:\\Users\\enisa_s3yrqh6\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\enisa_s3yrqh6\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\enisa_s3yrqh6\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
-    "C:\\Users\\enisa_s3yrqh6\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+    "C:\\Users\\enisa_s3yrqh6\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\enisa_s3yrqh6\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\enisa_s3yrqh6\\.nuget\\packages\\system.text.json\\6.0.3\\system.text.json.6.0.3.nupkg.sha512"
   ],
   "logs": []
 }

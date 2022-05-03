@@ -1,9 +1,10 @@
 ﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using System.Data.SqlClient;
 using System.Data;
 using DatePlanner.Models;
+using Microsoft.AspNetCore.Mvc;
+using System.Text.Json;
 
 namespace DatePlanner.Controllers
 {
@@ -21,16 +22,15 @@ namespace DatePlanner.Controllers
         [HttpGet]
         public JsonResult Get()
         {
-            string query = @"
-                select PerdoruesiID, PerdoruesiName,PerdoruesiSurname,PerdoruesiEmail from Perdoruesi";
+            string query = @"select * from Perdoruesi";
             DataTable table = new DataTable();
 
             string sqlDataSource = _configuration.GetConnectionString("DatePlannerCon");
             SqlDataReader myReader;
-            using (SqlConnection myCon = new (sqlDataSource))
+            using (SqlConnection myCon = new SqlConnection(sqlDataSource))
             {
                 myCon.Open();
-                using (SqlCommand myCommand = new (query, myCon))
+                using (SqlCommand myCommand = new SqlCommand(query, myCon))
                 {
                     myReader = myCommand.ExecuteReader();
                     table.Load(myReader); 
